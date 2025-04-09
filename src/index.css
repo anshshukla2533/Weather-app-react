@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+}
+
+.app {
+  min-height: 100vh;
+  width: 100%;
+  display: grid;
+
+
+  place-items: center;
+  background-image: url("./assets/backdrop/luxa.org-opacity-changed-._wHGM0abcSOWVL1p6KEsCZw.webp");
+  background: linear-gradient(to bottom, #87CEEB, #1E90FF);
+
+
+
+  
+
+}
+
